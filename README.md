@@ -1,7 +1,6 @@
 # redux-react-native
-Sample repository for Connect Redux with React Native app
+Sample repository for implement Redux with middleware(redux-thunk) in React Native app
 
-For steps and instructions, read blog - https://enappd.com/blog/redux-in-react-native-app/92/
 
 
 
